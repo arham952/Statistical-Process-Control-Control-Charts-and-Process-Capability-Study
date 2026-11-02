@@ -106,7 +106,7 @@ spc-capability-study/
 ## How to run
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/spc-capability-study.git
+git clone git@github.com:arham952/Statistical-Process-Control-Control-Charts-and-Process-Capability-Study.git
 cd spc-capability-study
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
